@@ -1,0 +1,56 @@
+.SwiperBody{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    
+}
+
+.swiperConteinar{
+    width: 100%;
+    max-width: 1400px;
+    height: 100% ;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mySwiper .SwiperCard{
+    width: 60%;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+
+.swiperHeader{
+    font-size: 3.4rem;
+    color:#fff;
+    margin-bottom: 2rem;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0.2rem;
+    text-shadow: 0.3rem 0.3rem 0.3rem #000;
+}
+
+.p--pragraph{
+    text-align: center;
+    font-size: 2rem;
+    color: #fff;
+    font-weight: 500;
+    letter-spacing: 0.1rem;
+    text-transform: capitalize;
+}
+.swiper-button-prev:after, .swiper-rtl .swiper-button-next:after{
+    color: #fff;
+}
+
+.swiper-button-next:after, .swiper-rtl .swiper-button-prev:after{
+    color: #fff;
+}
+.mySwiper .swiper-pagination-bullet-active{
+    background: #fff;
+}
+
+.mySwiper .swiper-pagination-bullet{
+    background:#fff ;
+}

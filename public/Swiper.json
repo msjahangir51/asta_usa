@@ -1,0 +1,26 @@
+[
+    {   
+        "id" : 1,
+        "img" : "./images/swiper-1.webp",
+        "Heading" : "Multiligual Translation OF Important Writen Materials",
+        "desc" : "For Business Entities. Public Service organization. and governments only"
+    },
+    {
+        "id" : 2,
+        "img" : "./images/swiper-2.webp",
+        "Heading" : "We Work With Loacl, Regional, and World-Class Organizations",
+        "desc" : "For Business Entities. Public Service organization. and governments only"
+    },
+    {
+        "id" : 3,
+        "img" : "./images/swiper-3.webp",
+        "Heading" : "We Understand Your Needs And Concerns",
+        "desc" : "For Business Entities. Public Service organization. and governments only"
+    },
+    {
+        "id" : 4,
+        "img" : "./images/swiper-4.webp",
+        "Heading" : "You'll Be Amazed At How Easy It Is To Work With Us!",
+        "desc" : "It's not Just a slogan - it's a fact -let us show you"
+    }
+]
